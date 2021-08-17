@@ -12,7 +12,12 @@ function App() {
           <Dictionary defaultKeyword="sunrise" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Katie Lotzer</small>
+          <a
+            href="https://github.com/VampirePrin4jc/dictionary-search"
+            rel="noreferrer"
+          >
+            <small>Coded by Katie Lotzer</small>
+          </a>
         </footer>
       </div>
     </div>
